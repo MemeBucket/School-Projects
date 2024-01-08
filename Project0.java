@@ -1,5 +1,5 @@
 import javax.swing.*;
-
+//Upper and lowercase letter e counter
 public class Project0 {
 
     public static void main(String[] args) {
